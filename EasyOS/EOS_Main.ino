@@ -1,4 +1,5 @@
 // 2023 leighton tegland iii
+// this is a very simple micro "os" i wrote to test hardware
 // im too lazy to fully document this one with comments but luckily its pretty easy to figure out
 
 #include "SevSeg.h"
